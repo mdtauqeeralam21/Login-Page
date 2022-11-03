@@ -1,0 +1,56 @@
+div{
+background: darkkhaki;
+border-radius:15px;
+position:absolute;
+left:40%;
+top:30%;
+padding: 30px;
+box-shadow:8px 8px 14px orangered;
+}
+body{
+background-image:url(image1.jpeg);
+background-repeat:no repeat; 
+background-size: 1280px 720px;
+}
+label{
+font-size:18px;
+color:#ffffff;
+}
+h3{
+font-size:30px;
+color:#ffffff;
+}
+input{
+font-size:20px;
+color:black;
+width:180px;
+border-radius:5px;
+}
+button{
+width:270px;
+height:30px;
+font-size:20px;
+background:lightgreen;
+color: blue;
+border-radius:12px;
+}
+span{
+color:orangered;
+font-size:25px;
+}
+button:hover{
+color:Blue;
+background-color:#48ff52;
+cursor:pointer;
+box-shadow:1px 1px 3px #66ff33;
+}
+a:link{
+color: orangered;
+text-decoration:none;
+border-radius:5px;
+padding: 7px;
+}
+a:hover{
+background:#feb892;
+box-shadow:3px 3px 6px lightgrey;
+}
