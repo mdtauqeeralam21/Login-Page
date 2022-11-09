@@ -1,0 +1,45 @@
+div{
+background-color: saddlebrown;
+border-radius:8px;
+position:absolute;
+left:40%;
+top:20%;
+padding: 30px;
+box-shadow:5px 5px 12px ghostwhite;
+}
+body{
+background-image:url(image2.jpeg) ;
+background-repeat:no repeat; 
+background-size: 2000px 2000px;
+}
+button:hover{
+color:white;
+background:blue;
+box-shadow:4px 5px 8px yellow;
+}
+input{
+font-size:15px;
+color:black;
+width:180px;
+border-radius:6px;
+}
+button{
+width:340px;
+height:30px;
+font-size:20px;
+background: ;
+color:blueviolet;
+border-radius:5px;
+}
+label{
+font-size:20px;
+color: lightyellow;
+}
+span{
+color:red;
+font-size:20px;
+}
+h3{
+font-size:32px;
+color:cyan;
+}
